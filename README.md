@@ -1,6 +1,6 @@
 # AI Jobs Market Analysis Dashboard
 
-An interactive Tableau dashboard that analyzes the AI Jobs Market dataset (2025-2026). This project provides insights into AI job trends, salary distribution, market demand, geographic hiring patterns, and remote work opportunities through interactive visualizations.
+An interactive Tableau dashboard that analyzes the AI Jobs Market dataset (2025–2026). This project provides insights into AI job trends, salary distribution, market demand, geographic hiring patterns, and remote work opportunities through interactive visualizations.
 
 ---
 
@@ -20,8 +20,8 @@ The dashboard is designed to help users understand the current AI job market by 
 ## Dataset Information
 
 | Information | Value |
-|------------|-------|
-| Dataset | AI Jobs Market 2025-2026 |
+|-------------|-------|
+| Dataset | AI Jobs Market 2025–2026 |
 | Total Records | 1,500 |
 | Total Columns | 25 |
 | Missing Values | 0 |
@@ -98,39 +98,35 @@ Analyzes demand growth and geographic distribution.
 ## Folder Structure
 
 ```text
-AI-Jobs-Market-Analysis
-�
-��� Dashboard
-�   ��� AI_Jobs_Market_Analysis.twbx
-�
-��� Dataset
-�   ��� ai_jobs_market_2025_2026.csv
-�
-��� Images
-�   ��� Executive_Overview.png
-�   ��� Role_Salary_Analysis.png
-�   ��� Demand_Geographic_Insights.png
-�
-��� README.md
+AI-Jobs-Market-Analysis/
+├── Dashboard/
+│   └── AI_Jobs_Market_Analysis.twbx
+├── Dataset/
+│   └── ai_jobs_market_2025_2026.csv
+├── Images/
+│   ├── Executive_Overview.png
+│   ├── Role_Salary_Analysis.png
+│   └── Demand_Geographic_Insights.png
+└── README.md
 ```
 
 ---
 
-# Dashboard Preview
+## Dashboard Preview
 
-## Executive Overview
+### Executive Overview
 
 ![Executive Overview](Images/Executive_Overview.png)
 
 ---
 
-## Role & Salary Analysis
+### Role & Salary Analysis
 
 ![Role & Salary Analysis](Images/Role_Salary_Analysis.png)
 
 ---
 
-## Demand & Geographic Insights
+### Demand & Geographic Insights
 
 ![Demand & Geographic Insights](Images/Demand_Geographic_Insights.png)
 
@@ -152,9 +148,9 @@ AI-Jobs-Market-Analysis
 - **Ragil Yudi Saputra**
 - **Edgina Rangga Arkananta**
 
-Information Systems Student
+**Information Systems**
 
-Universitas Harapan Bangsa
+**Universitas Harapan Bangsa**
 
 ---
 
